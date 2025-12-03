@@ -1,0 +1,10 @@
+{:paths ["src/clojure"]
+ :deps {cheshire/cheshire          {:mvn/version "5.8.1"}
+        clj-time/clj-time          {:mvn/version "0.15.1"}
+        clojurewerkz/support       {:mvn/version "1.5.0"}
+        org.clojure/clojure        {:mvn/version "1.11.1"}
+        org.clojure/core.cache     {:mvn/version "0.7.1"}
+        org.clojure/data.json      {:mvn/version "2.5.0"}
+        org.mongodb/mongodb-driver {:mvn/version "3.12.11"}
+        ragtime/core               {:mvn/version "0.7.2"}
+        ring/ring-core             {:mvn/version "1.7.1"}}}
